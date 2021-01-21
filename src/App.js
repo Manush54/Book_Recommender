@@ -306,16 +306,6 @@ export default function App() {
           })}
         </ul>
       </div>
-      <div
-        style={{
-          width: "100vw",
-          backgroundColor: "black",
-          color: "white",
-          padding: "1%"
-        }}
-      >
-        Made With Love ♥ By Manush
-      </div>
     </div>
   );
 }
